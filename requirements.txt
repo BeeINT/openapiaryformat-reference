@@ -1,0 +1,4 @@
+Sphinx==1.2.3
+python-slugify==0.1.0
+sphinx-rtd-theme==0.1.6
+sphinxcontrib-images==0.4.2
