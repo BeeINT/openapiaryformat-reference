@@ -1,4 +1,4 @@
-openapiaryformat Reference
+openapiaryformat reference |version|
 ============================================
 
 
@@ -7,16 +7,16 @@ The format specifications and reference implementations for an easy start will b
 
 You can get your version of this document at http://openapiaryformat-reference.readthedocs.org 
 
-
 Content
 -------------
 
 .. toctree::
    :maxdepth: 2
 
-   description.rst
-   goals.rst
-   reference.rst
-   examples.rst
-   license.rst
+   content/description.rst
+   content/goals.rst
+   content/roadmap.rst
+   content/reference.rst
+   content/examples.rst
+   content/license.rst
    

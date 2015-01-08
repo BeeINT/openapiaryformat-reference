@@ -5,11 +5,14 @@ from slugify import slugify
 
 project = u'OpenApiaryFormat Reference'
 author = u'BeeInt'
-year = "2014"
+year = "2015"
 description = ''
 
 version = '0.1'
-release = '0.1'
+release = version
+
+copyright = u"This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/."
+
 
 
 ################################################################################################
@@ -29,7 +32,6 @@ exclude_patterns = ['_build']
 pygments_style = 'sphinx'
 html_static_path = ['_static']
 htmlhelp_basename = slugify(project)
-copyright = u"This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/."
 
 latex_elements = {
 }
